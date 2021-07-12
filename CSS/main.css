@@ -93,7 +93,7 @@ body::before {
 
 @media screen and (min-width: 1000px) and (orientation: landscape) {
   body::before {
-    background-image: url(/images/desktop/image-hero.jpg);
+    background-image: url(../images/desktop/image-hero.jpg);
     height: 80vh;
     background-size: cover;
   }
@@ -234,7 +234,7 @@ body .container main .intro {
 body .container main .intro .imageVr {
   width: 100%;
   height: 18em;
-  background-image: url(/images/mobile/image-interactive.jpg);
+  background-image: url(../images/mobile/image-interactive.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   margin: 2em 0;
@@ -260,7 +260,7 @@ body .container main .intro .imageVr {
     background-size: cover;
     margin: 0;
     position: absolute;
-    background-image: url(/images/desktop/image-interactive.jpg);
+    background-image: url(../images/desktop/image-interactive.jpg);
   }
 }
 
@@ -362,61 +362,61 @@ body .container main .creations .gallery {
 }
 
 body .container main .creations .gallery .one {
-  background-image: url(/images/mobile/image-deep-earth.jpg);
+  background-image: url(../images/mobile/image-deep-earth.jpg);
 }
 
 body .container main .creations .gallery .two {
-  background-image: url(/images/mobile/image-night-arcade.jpg);
+  background-image: url(../images/mobile/image-night-arcade.jpg);
 }
 
 body .container main .creations .gallery .three {
-  background-image: url(/images/mobile/image-soccer-team.jpg);
+  background-image: url(../images/mobile/image-soccer-team.jpg);
 }
 
 body .container main .creations .gallery .four {
-  background-image: url(/images/mobile/image-grid.jpg);
+  background-image: url(../images/mobile/image-grid.jpg);
 }
 
 body .container main .creations .gallery .five {
-  background-image: url(/images/mobile/image-from-above.jpg);
+  background-image: url(../images/mobile/image-from-above.jpg);
 }
 
 body .container main .creations .gallery .six {
-  background-image: url(/images/mobile/image-pocket-borealis.jpg);
+  background-image: url(../images/mobile/image-pocket-borealis.jpg);
 }
 
 body .container main .creations .gallery .seven {
-  background-image: url(/images/mobile/image-curiosity.jpg);
+  background-image: url(../images/mobile/image-curiosity.jpg);
 }
 
 body .container main .creations .gallery .eight {
-  background-image: url(/images/mobile/image-fisheye.jpg);
+  background-image: url(../images/mobile/image-fisheye.jpg);
 }
 
 @media screen and (min-width: 1000px) and (orientation: landscape) {
   body .container main .creations .gallery .one {
-    background-image: url(/images/desktop/image-deep-earth.jpg);
+    background-image: url(../images/desktop/image-deep-earth.jpg);
   }
   body .container main .creations .gallery .two {
-    background-image: url(/images/desktop/image-night-arcade.jpg);
+    background-image: url(../images/desktop/image-night-arcade.jpg);
   }
   body .container main .creations .gallery .three {
-    background-image: url(/images/desktop/image-soccer-team.jpg);
+    background-image: url(../images/desktop/image-soccer-team.jpg);
   }
   body .container main .creations .gallery .four {
-    background-image: url(/images/desktop/image-grid.jpg);
+    background-image: url(../images/desktop/image-grid.jpg);
   }
   body .container main .creations .gallery .five {
-    background-image: url(/images/desktop/image-from-above.jpg);
+    background-image: url(../images/desktop/image-from-above.jpg);
   }
   body .container main .creations .gallery .six {
-    background-image: url(/images/desktop/image-pocket-borealis.jpg);
+    background-image: url(../images/desktop/image-pocket-borealis.jpg);
   }
   body .container main .creations .gallery .seven {
-    background-image: url(/images/desktop/image-curiosity.jpg);
+    background-image: url(../images/desktop/image-curiosity.jpg);
   }
   body .container main .creations .gallery .eight {
-    background-image: url(/images/desktop/image-fisheye.jpg);
+    background-image: url(../images/desktop/image-fisheye.jpg);
   }
 }
 
