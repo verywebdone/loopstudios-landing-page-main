@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAEI,MAAM,CAAC,MAAM,MAAM,SAAS,EAAE,KAAK;EAUvC,AACE,IADE,CACF,EAAE,CAAC;IAEC,KAAK,EAAE,GAAG;GAEb",
+    "sources": [
+        "tablet.scss"
+    ],
+    "names": [],
+    "file": "tablet.css"
+}
